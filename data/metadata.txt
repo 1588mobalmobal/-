@@ -1,0 +1,8 @@
+wti: 1995년 1월 wti 가격을 1로 두어 변환
+coal: 1995년 1월 석탄 가격을 1로 두어 변환
+lng: 1995년 1월 천연가스 가격을 1로 두어 변환
+m2: 1995년 1월 M2 통화량을 1로 두어 변환
+unemploy: 당시 실업률
+interest: 당시 연방기금 실효금리
+dollar_idx: 1995년 1월 달러인덱스를 1로 두고 변환
+wti_modified: wti / m2 * dollar_idx
